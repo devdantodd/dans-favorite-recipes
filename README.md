@@ -1,1 +1,1 @@
-# odin-recipes
+# Dan's Favorite recipes
